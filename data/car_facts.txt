@@ -1,0 +1,118 @@
+Engine|The engine is the heart of a car. Common types include:
+• Petrol engines – smoother, higher revving, lower cost to maintain.
+• Diesel engines – more torque and fuel-efficient, ideal for long drives.
+• Hybrid engines – combine petrol and electric motors for better economy.
+• CNG/LPG – compressed or liquefied gas fuels. Cheaper and cleaner, but need regular tank checks.
+
+Cylinders|Engines have cylinders where combustion happens. More cylinders mean smoother power but more fuel use.
+• 3-cylinder – efficient and compact, used in small cars.
+• 4-cylinder – most common, good balance of power and economy.
+• 5-cylinder – rare, smooth and torquey.
+• 6-cylinder (V6, inline-6) – refined performance engines.
+• 8-cylinder (V8) – used in sports and luxury cars for high power.
+Configurations include inline, V-type and flat (boxer)arrangements.
+
+Transmission|The transmission sends engine power to the wheels.
+• Manual – driver controls clutch and gears.
+• AMT (Automated Manual Transmission) – automated clutch, cheaper auto option.
+• CVT (Continuously Variable Transmission) – smooth, gearless feel, good for city driving.
+• Torque Converter – traditional automatic, smooth but less efficient.
+• DCT (Dual Clutch Transmission) – very fast shifts, used in performance cars.
+
+Engine Oil|Lubricates engine parts to reduce wear. 
+Types:
+• Mineral oil – basic, inexpensive and shorter lifespan.
+• Semi-synthetic – balance of cost and protection.
+• Fully synthetic – best protection and  longer service life.
+Oil grades (For example- 5W-30, 10W-40) indicate viscosity for cold and hot conditions.
+
+Fuel Types|Fuel choice affects performance and emissions.
+• Petrol (Regular 91 RON) – standard grade in Australia.
+• Premium (95 or 98 RON) – for performance engines, better resistance.
+• E10/E20 – ethanol blended fuels (10–20% ethanol) used in many modern cars.
+• Diesel – high energy fuel for torque and efficiency.
+• Power fuels – marketed blends with cleaning additives.
+
+Brakes|Brakes slow and stop the car using friction.
+• Drum brakes – cheaper, used on rear wheels of smaller cars.
+• Disc brakes – better cooling and performance, standard on modern cars.
+• Carbon-ceramic brakes – used in sports cars, handle high heat, very expensive.
+Brake pads and rotors wear out and must be replaced periodically.
+
+Tyres|Tyres connect your car to the road — they affect grip, comfort, and safety.
+• Summer tyres – best grip in warm, dry conditions.
+• Winter tyres – special rubber for cold or snowy roads.
+• All-season tyres – balance of performance in all weather.
+• All-terrain (A/T) and mud-terrain (M/T) – for off the road use.
+Reading tyre size example: 205/55 R16 = width/profile/rim size.
+Speed rating (For example- H, V) shows max safe speed. Replace tyres every 40,000–50,000 km or when tread depth <1.6 mm.
+
+ABS (Anti-lock Braking System)|Prevents wheels from locking during hard braking, allowing steering control while stopping quickly. Standard in all modern vehicles.
+
+Suspension|Suspension absorbs road bumps for stability and comfort.
+• Coil spring – simple and reliable, most common type.
+• Air suspension – uses airbags and compressors for adjustable ride height.
+• Leaf or torsion bar – used in commercial or older vehicles.
+Well-tuned suspension improves ride comfort and handling.
+
+ADAS (Advanced Driver Assistance Systems)|Technology that assists the driver to reduce accidents.
+Levels (0–5):
+• Level 0 – no automation.
+• Level 1 – basic assist (cruise control).
+• Level 2 – partial automation (lane and distance assist).
+• Level 3 – conditional self driving (rare).
+• Level 4/5 – full automation (not yet legal).
+Common ADAS: lane departure warning, adaptive cruise, emergency braking, blind spot detection.
+
+Drive Trains|Describes how power is sent to the wheels.
+• FWD (Front-Wheel Drive) – light and efficient, most small cars.
+• RWD (Rear-Wheel Drive) – better balance, used in sports cars.
+• AWD (All-Wheel Drive) – power to all wheels for stability and grip.
+• 4x4 – selectable four-wheel drive for off-road capability.
+
+Warning Symbols|Dashboard warning lights tell you about the car’s health.
+• Red lights – serious issues (oil pressure, brake fault, overheating).
+• Amber lights – caution (check engine, low fuel, ABS).
+• Green/blue – information (headlights on, cruise control).
+Check the owner’s manual for exact meanings.
+
+AdBlue|Used in modern diesel vehicles with SCR systems to reduce NOx emissions.
+It’s a urea based liquid stored in a separate tank. Low AdBlue levels trigger a dashboard warning and can prevent starting if empty.
+
+Service Intervals|Regular servicing keeps your car reliable and safe.
+Typical checks every 10,000 km or 6 months:
+• Engine oil and filter change
+• Air and cabin filter replacement
+• Brake, coolant, and tyre inspection
+• Battery and lights check
+Major services (40,000–60,000 km) may include spark plugs, transmission oil, and fuel filter replacement.
+
+Seatbelts|Primary safety feature that restrains passengers during sudden stops or crashes.
+Modern systems include pre-tensioners and load limiters. Always wear your seatbelt.
+
+Mirrors|Proper mirror adjustment removes blind spots.
+Types:
+• Rear-view mirror – shows traffic behind.
+• Side mirrors – show left/right lanes; adjust so you barely see your own car.
+Some cars have auto dimming and blind-spot indicators.
+
+Battery|Provides power to start the engine and run electrical systems.
+• Lead-acid batteries – standard type, 3–5 year life.
+• AGM or EFB – advanced versions for start-stop systems.
+Keep terminals clean and replace the battery if starting becomes weak.
+
+Airbags|Inflate instantly during collisions to cushion occupants. 
+Modern cars have front, side, curtain, and knee airbags. Airbags work best with seatbelts.
+
+Cooling System|Keeps the engine from overheating using coolant circulated through the radiator.
+Check coolant levels regularly; overheating can cause severe engine damage.
+
+Exhaust System|Carries gases from the engine safely out the rear. 
+Includes catalytic converter and muffler to reduce emissions and noise. 
+Any leaks can be dangerous.
+
+Fuel Efficiency Tips|Keep tyres inflated, drive smoothly, avoid idling, and service regularly. 
+Aggressive driving and overloading drastically reduce fuel economy.
+
+# Reference 1: https://auto.howstuffworks.com/5-ways-modern-car-engines-differ-from-older-car-engines.htm
+# Reference 2: https://en.wikipedia.org/wiki/Automotive_engine
