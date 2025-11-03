@@ -1,8 +1,8 @@
 Engine|The engine is the heart of a car. Common types include:
-• Petrol engines – smoother, higher revving, lower cost to maintain.
-• Diesel engines – more torque and fuel-efficient, ideal for long drives.
-• Hybrid engines – combine petrol and electric motors for better economy.
-• CNG/LPG – compressed or liquefied gas fuels. Cheaper and cleaner, but need regular tank checks.
+Petrol engines – smoother, higher revving, lower cost to maintain.
+Diesel engines – more torque and fuel-efficient, ideal for long drives.
+Hybrid engines – combine petrol and electric motors for better economy.
+CNG/LPG – compressed or liquefied gas fuels. Cheaper and cleaner, but need regular tank checks.
 
 Cylinders|Engines have cylinders where combustion happens. More cylinders mean smoother power but more fuel use.
 • 3-cylinder – efficient and compact, used in small cars.
