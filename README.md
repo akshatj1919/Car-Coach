@@ -20,7 +20,7 @@ and plan car loans. All in one clean dashboard.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 ```bash
 # clone the repo
 git clone https://github.com/akshatj1919/Car-Coach.git
