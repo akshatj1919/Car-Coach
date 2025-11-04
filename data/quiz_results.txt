@@ -1,15 +1,5 @@
 akhat,5/5
 Kevin,4/5
 mihir,4/5
-Anonymous,1/5
-kevin,1/5
-Akarsh,4/5
-Anonymous,0/5
-akshat,0/5
-Anonymous,0/5
-Anonymous,0/5
-Anonymous,0/5
-Anonymous,1/5
-Anonymous,0/5
-Anon,0/5
-Anon,0/5
+
+Akshat,2/5
