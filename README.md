@@ -31,7 +31,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 # install dependencies
-pip install customtkinter pillow
+pip install customtkinter
 
 # run the app
 python app.py
