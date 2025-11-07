@@ -76,7 +76,7 @@ def load_quiz():
                 q =p[1]
                 opts =p[2:-1]
                 a =p[-1].upper()
-                if a not in {"A","B","C","D"}:
+                if a not in {"A","B","C"}:
                     continue
                 data[lvl].append(Question(q,opts[:4],a))
     except FileNotFoundError:

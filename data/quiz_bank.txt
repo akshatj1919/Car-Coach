@@ -1,53 +1,53 @@
 # EASY (15)
-easy|You are driving past a school during school zone hours. What must you do?|A)Slow down at school zone limit|B)Do not reduce speed if no children are visible|C)Press horn to warn children|D)Stop completely until school finishes|A
-easy|When you see a yellow traffic light, you should?|A)Speed up to get through before it turns red|B)Prepare to stop|C)Always stop|D)Continue through|B
-easy|When operating at night on a roadway that has streetlights, you should use?|A)High beam headlights at all times|B)Low beam headlights|C)Park lights only|D)Hazard lights|B
-easy|At a STOP sign you must?|A)Slow down and continue if clear|B)Come to a complete stop and proceed when safe|C)Stop only if another vehicle is coming|D)Keep moving slowly|B
-easy|When you see children near the road, you should?|A)Drive faster to pass them quickly|B)Slow down and be prepared to stop|C)Ignore them if on the footpath|D)Press the horn|B
-easy|What does a flashing red traffic light mean?|A)Stop and give way before proceeding|B)Drive slowly through the intersection|C)Same as a green light|D)Caution only|A
-easy|When driving near parked cars, you should?|A)Keep as close as possible to the parked cars|B)Drive in the middle of the road|C)Watch for doors opening and keep a safe distance|D)Speed up to pass quickly|C
-easy|Before you change lanes, you must?|A)Check mirrors and blind spot and signal|B)Just signal|C)Just check mirrors|D)Honk to alert other drivers|A
-easy|In NSW the default speed limit is?|A)40 km/h|B)50 km/h|C)60 km/h|D)70 km/h|B
-easy|When driving in fog, you should use?|A)High beam headlights|B)Hazard lights|C)Low beam headlights|D)No lights|C
-easy|When turning left at a green light, you must?|A)Give way to pedestrians crossing|B)Turn immediately|C)Wait for a green arrow|D)Honk before turning|A
-easy|You must not park your vehicle within how many metres with traffic lights?|A)1 metre|B)3 metres|C)10 metres|D)20 metres|C
-easy|You are being overtaken by another vehicle. You should?|A)Increase your speed|B)Move left and allow them to pass|C)Press your horn|D)Move right|B
-easy|What does a red traffic light mean?|A)Stop|B)Go if the road is clear|C)Proceed with caution|D)Stop only if there is traffic|A
-easy|When approaching a pedestrian crossing, you must?|A)Continue if no one is there|B)Be ready to stop for pedestrians|C)Stop only if children are present|D)Press your horn|B
+easy|When reversing, you should -|A)Sound your horn to warn other drivers.|B)Unbuckle your seat belt so you can reverse as quickly as possible.|C)Take care and never reverse for a greater distance and time than is necessary.|C
+easy|When can a private car travel in a lane marked by this sign?|A)When carrying at least two passengers.|B)Only to overtake another vehicle.|C)Only within 100 metres of making a turn.|C
+easy|What are you required to do if you develop a serious medical condition that could affect your driving?|A)Tell your doctor and let him or her notify the RTA.|B)Hand your licence in at the nearest police station.|C)Once you become aware of the condition you must notify the RTA.|C
+easy|If turning at an intersection are you required to give way to pedestrians?|A)Yes, only if turning right.|B)Yes, only if turning left.|C)Yes, a driver turning right or left must give way to pedestrians, if there is a danger of a collision.|C
+easy|Are you required to carry your driver’s licence with you every time you drive?|A)No it is only needed on long trips.|B)No, being licensed is enough.|C)Yes.|C
+easy|Are you permitted to drive a car towing more than one trailer?|A)Yes, provided you have held a licence for two years.|B)Yes, if the combined length of vehicle and trailers does not exceed 15 metres.|C)No, not at all.|C
+easy|Are you permitted to tow a caravan with a person riding in the caravan?|A)Yes, provided you do not exceed 60 km/h.|B)No, not under any circumstances.|C)Yes, if the person(s) in the caravan are over 12 years of age.|B
+easy|What will happen if you are caught cheating on the knowledge test?|A)You will never be allowed to take another test.|B)You will not be allowed to take another test for 6 weeks.|C)Nothing, there is no penalty.|B
+easy|If there are no lanes marked on the road, you should drive -|A)Along the middle of the road.|B)Anywhere on your side of the road.|C)Near to the left-hand side of the road.|C
+easy|Is it an offence to obstruct clear vision of your number plates?|A)No, you are allowed to cover your number plates if you want to.|B)Yes, but it is legal for a towbar or bicycle rack to cover the rear number plate.|C)Yes, at any time.|C
+easy|Can a P1 or P2 provisional driver legally instruct a learner driver?|A)Yes, provided L and P1 or P2 plates are displayed.|B)No.|C)Yes, provided the provisional driver has held a P2 licence for more than 6 months.|B
+easy|Stop signs or flashing lights at railway crossings should always be obeyed, because -|A)Pedestrians might be crossing.|B)Car brakes often fail.|C)Trains are fast, heavy and cannot stop quickly.|C
+easy|If you intend to turn left, are you required to give a signal?|A)No, if arrows are marked on the roadway.|B)Yes, if turn signals are fitted to your vehicle.|C)No, if turning left from a lane marked left turn only.|B
+easy|When you see a sign indicating road repairs are going on, you should -|A)Stop immediately and wait for instructions.|B)Maintain the same speed.|C)Slow down and watch for traffic controllers and instructions.|C
+easy|Are you permitted to park on a median strip or traffic island?|A)Yes, in daylight hours.|B)No, not at any time.|C)Yes, but for no more than 30 minutes.|B
 
 # MEDIUM (15)
-medium|When approaching a railway level crossing with flashing red lights, you must?|A)Slow down|B)Stop until the lights stop flashing|C)Proceed carefully|D)Honk before crossing|B
-medium|When driving on a freeway, you should?|A)Always drive in the right lane|B)Use the left lane unless overtaking|C)Drive as close as possible to the centre|D)Stop to pick up passengers|B
-medium|When joining a motorway, you should?|A)Stop at the end of the merging lane|B)Match your speed to the traffic and merge safely|C)Merge only if there’s a big gap|D)Force your way in|B
-medium|When you see a “Give Way” sign, you must?|A)Slow down and give way if necessary|B)Always stop completely|C)Drive through quickly|D)Honk your horn|A
-medium|A broken yellow line on the kerb means?|A)No stopping during certain times|B)Parking allowed anytime|C)Taxi zone only|D)Bus zone only|A
-medium|When you tow a trailer, your maximum speed limit on a highway in NSW is?|A)100 km/h|B)90 km/h|C)110 km/h|D)120 km/h|B
-medium|When driving in the rain, your stopping distance will?|A)Increase|B)Decrease|C)Stay the same|D)Not change if you brake hard|A
-medium|You must use your high beam headlights when?|A)You see oncoming traffic within 200 m|B)You pass a streetlight|C)You drive on a country road|D)You drive in a tunnel|A
-medium|You come to a roundabout and would like to take the right turn. You must?|A)Signal right as you enter and left when exiting|B)Only signal when leaving|C)Signal left throughout|D)Not signal at all|A
-medium|If your vehicle begins to skid, you should?|A)Brake hard immediately|B)Steer in the direction of the skid|C)Accelerate|D)Turn sharply the opposite way|B
-medium|When you see double unbroken centre lines, you may cross them?|A)To overtake|B)To turn into a driveway|C)Anytime|D)Never|B
-medium|When approaching a hill or curve, you should?|A)Drive faster to clear it quickly|B)Stay in your lane and slow down|C)Move to the opposite lane|D)Turn on hazard lights|B
-medium|When parking parallel to the kerb, you must leave how much space from the kerb?|A)Within 1 metre|B)Within 50 cm|C)1 metre or more|D)Any distance|B
-medium|When passing a parked bus picking up passengers, you should?|A)Slow down to 40 km/h if within the speed zone|B)Overtake as quickly as possible|C)Press your horn|D)Ignore and pass normally|A
-medium|If you miss your exit on a motorway, you should?|A)Reverse carefully|B)Drive to the next exit|C)Stop on the shoulder and turn|D)Cross the median strip|B
+medium|If you are taking any sort of medicine, you should -|A)Only drive during the day after taking the medicine or drug.|B)Find out from your doctor or chemist whether the medicine or drug will affect your driving and act accordingly.|C)Only drive a motor car not a heavy vehicle.|B
+medium|You are facing traffic lights (as shown). What do they mean?|A)You may proceed only in the direction of the green arrow when the red light has changed to green.|B)You must give way to oncoming traffic.|C)You may proceed only in the direction of the green arrow.|C
+medium|If turning right at a T-intersection (as shown) must you give way to vehicles approaching from both the left and right?|A)No, only the vehicle on the right.|B)No, you have right of way.|C)Yes, whether they are turning or not.|C
+medium|You are about to move away from the kerb in your car. What is the last thing you should do before you move into traffic?|A)Check over your shoulder.|B)Adjust your seat.|C)Put on your seat belt.|A
+medium|If you are driving through a road work zone in the left hand lane and you see this sign you should -|A)Stop and wait for directions.|B)Merge to the right and give way to other traffic.|C)Speed up to get in front of any cars traveling in the right hand lane.|B
+medium|When driving in wet weather, your vehicle will -|A)Handle better, so you can go faster.|B)Take longer and further to stop, so slow down.|C)Stop in the same distance as on a dry road.|B
+medium|Where must L or P plates be displayed on a vehicle -|A)On the front and back of the exterior of the vehicle.|B)Anywhere including on the dashboard.|C)Anywhere inside the windows but only if they are not tinted.|A
+medium|When you see this sign you must -|A)Stop at the stop line and give way to all traffic on your right only.|B)Slow down and be prepared to stop only if there is any danger of a collision with another vehicle or pedestrian.|C)Stop at the stop line and give way to all traffic.|C
+medium|You are at an intersection and see a pedestrian crossing the road into which you are turning. You must -|A)Sound your horn to warn the pedestrian to get out of the way.|B)Swerve around the pedestrian to avoid hitting them.|C)Give way to the pedestrian.|C
+medium|When driving in busy traffic in a 60 km/h zone. You feel 60 km/h is a bit too fast for the conditions. What should you do?|A)Keep up with the other traffic because it's probably safe if the sign says 60 km/h.|B)Turn off the busy street and wait for traffic to clear.|C)Slow down to a speed that suits the conditions.|C
+medium|Having 1 or 2 alcoholic drinks before driving -|A)Has no effect on your driving ability.|B)Will affect your reactions and judgement.|C)Improves your driving ability.|B
+medium|When going on a long trip, out of the following which is the most important to do?|A)Make sure your horn is working.|B)Get plenty of rest before starting out.|C)Have a good meal before driving.|B
+medium|To reduce the effect of alcohol before driving or riding you should -|A)Wait. The time depends on how much you have drunk.|B)Have a glass of water.|C)Drink black coffee.|A
+medium|Seat belts and child restraints (eg baby capsules and child seats) -|A)Are only needed on long trips.|B)Must always be worn properly, and adjusted tightly.|C)Are only needed on short trips.|B
+medium|You want to turn left at this roundabout. Which lane must you use?|A)Lane A.|B)Lane B.|C)Either lane.|A
 
 # HARD (15)
-hard|You are turning right at an intersection with no signals. Oncoming traffic is going straight. You must?|A)Turn before them|B)Give way to oncoming traffic|C)Honk to alert them|D)Wait in the middle of the road|B
-hard|You are at an unmarked T intersection. Who gives way?|A)The driver on the terminating road|B)The driver on the continuing road|C)The larger vehicle|D)The driver turning right|A
-hard|You see a green light but traffic is blocking the intersection ahead. You should?|A)Enter and wait in the middle|B)Wait behind the stop line until clear|C)Drive slowly forward|D)Use the right lane|B
-hard|When can you cross a single continuous centre line?|A)To overtake another vehicle|B)To enter or leave a driveway|C)At any time|D)Never|B
-hard|A “Shared Zone” speed limit means?|A)10 km/h maximum and give way to pedestrians|B)20 km/h and honk before entering|C)30 km/h with no pedestrians|D)Normal 50 km/h limit applies|A
-hard|When approaching a pedestrian with a guide dog, you should?|A)Give way and don’t Press your horn|B)Overtake quickly|C)Honk to warn them|D)Ignore them|A
-hard|When approaching a police vehicle with lights flashing, you must?|A)Stop where you are|B)Slow down and move left when safe|C)Speed up to clear the road|D)Continue normally|B
-hard|When approaching an emergency vehicle stopped on the roadside with flashing lights, you must?|A)Slow to 40 km/h if safe|B)Continue at the limit|C)Stop immediately|D)Press horn|A
-hard|In heavy rain your car starts to aquaplane. What should you do?|A)Brake hard|B)Ease off accelerator and steer straight|C)Turn the wheel quickly|D)Accelerate to regain traction|B
-hard|If you’re involved in a crash, you must?|A)Leave immediately if no one saw you|B)Stop and give your details to others involved|C)Drive to the nearest police station only|D)Keep going if it’s minor|B
-hard|You are approaching a “KEEP LEFT UNLESS OVERTAKING” sign you should?|A)Drive in the right lane unless overtaking|B)Stay in the left lane unless overtaking|C)Always drive in the right lane|D)Drive in any lane|B
-hard|You see a red “B” light at a traffic signal. It applies to?|A)Buses only|B)Bicycles only|C)All drivers|D)Emergency vehicles|A
-hard|When entering a freeway, you must give way to?|A)Vehicles already on the freeway|B)Vehicles behind you|C)Vehicles in the merging lane|D)Trucks only|A
-hard|If a vehicle is tailgating you, what do you do?|A)Brake hard to warn them|B)Move left and let them pass safely|C)Speed up|D)Ignore them|B
-hard|What is the blood alcohol limit for full licence holders in NSW?|A)0.00|B)0.02|C)0.05|D)0.08|C
+hard|Before taking any drugs and then driving it is most important to -|A)Plan to have some other person with you.|B)Know what the effects of the drug are.|C)Have some food in your stomach.|B
+hard|If you are convicted of dangerous driving -|A)You could lose your licence and may be sent to prison.|B)You could be given demerit points only.|C)You could only be fined and given demerit points.|A
+hard|If you are driving towards a road works zone and a traffic controller displays a stop sign you must -|A)Stop your vehicle and follow the directions of the traffic controller.|B)Stop and then proceed if you think it is safe.|C)Slow down and continue through the road works zone.|A
+hard|When you see this sign you must -|A)Only enter the street if you live in the local zone.|B)Drive at a speed less than 40 km/h if you are not a resident of the local zone.|C)Not exceed 40 km/h and keep a special lookout for bicycle riders, pedestrians and children.|C
+hard|When you see this sign you should -|A)Continue at the same speed and not look both ways for approaching trains.|B)Stop in the middle of the railway tracks and look both ways for approaching trains.|C)Slow down and be prepared to stop if the lights start flashing, warning you of an approaching train.|C
+hard|When you see this sign you must -|A)Stop at the stop line and give way to all traffic.|B)Stop at the stop line and give way to all traffic on your right only.|C)Slow down and be prepared to stop only if there is any danger of a collision with another vehicle or pedestrian.|A
+hard|If you are convicted a second time for street or drag racing, which one of the following penalties applies?|A)You will have to pay for the storage of your vehicle.|B)Your vehicle may be taken away and sold.|C)You will not be able to register your vehicle again.|B
+hard|When driving through temporary road work you should -|A)Maintain current speed if the road is clear.|B)Sound your horn.|C)Slow down and look out for hazards.|C
+hard|When you are driving on a two-lane freeway, which lane should you choose?|A)Whichever lane has the least traffic.|B)The left lane unless you are overtaking.|C)The right lane to avoid slow-moving vehicles.|B
+hard|If you are involved in an accident where your vehicle needs to be towed away and the Police does not attend the crash scene, you -|A)Must report the accident to the Police Station nearest to where the accident happened within 24 hours.|B)Do not need to report the accident to the Police.|C)Only need to report the accident to the Police if someone was injured.|A
+hard|At a pedestrian crossing with traffic lights, when the amber light starts 'flashing' after the red stop signal, it means -|A)The green light is due. Do not proceed until the green light appears.|B)You may carefully drive through the crossing, if there is no risk of colliding with pedestrians.|C)The traffic lights are out of order and pedestrians must not use the crossing.|B
+hard|What must you do if you miss your exit on a freeway?|A)Stop, and reverse back along the freeway to the exit you missed.|B)Stop immediately and turn around.|C)Continue until you reach the next appropriate exit.|C
+hard|At night, when you approach an oncoming vehicle, you should -|A)Not look at its headlights, but keep left and watch the left of the road.|B)Put your lights on high beam, to make your vehicle more easily seen.|C)Carefully watch the vehicle by looking directly at its headlights.|A
+hard|When approaching a railway level crossing displaying this sign, you must -|A)Slow down, look both ways for trains and be prepared to stop if necessary.|B)Continue across at normal speed, do not slow down.|C)Increase your speed to avoid any approaching trains.|A
+hard|You are at a busy intersection with slow moving traffic and want to go straight ahead. When the traffic lights change to green you should make sure that -|A)You have the car in the right gear.|B)You do not block the intersection.|C)You do not hold up the traffic behind you.|B
 
 # Reference 1 : Quiz questions are same as Australian road rule used in NSW DKT. "https://www.nsw.gov.au/sites/default/files/2021-08/driver-knowledge-test-questions-car.pdf"
 # Reference 2 : "https://www.driverknowledgetests.com/learners-permit/car/"
